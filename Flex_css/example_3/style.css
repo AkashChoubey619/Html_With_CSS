@@ -1,0 +1,33 @@
+.container {
+    width: 90%;
+    background-color: green;
+    margin: 0 auto;
+    padding: 2em;
+    display: flex;
+   justify-content: space-between;
+    
+  }
+  
+  .item {
+    box-sizing: border-box;
+    max-width: 48.7%;
+    height:10em;
+    padding:inherit;
+    background-color: blue;
+    color: #fff;
+    display: flex;
+   justify-content:space-between;
+   /* flex-direction: column; */
+   /* justify-content: center; */
+    
+  }
+  
+  .subitem {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin-left: 1%;
+    background-color: red;
+    max-width: 22%;
+    text-align:center;
+  }

@@ -1,0 +1,11 @@
+#flex-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.flex-item{
+    width: 100px;
+    height: 100px;
+    background-color: lightblue;
+    border: 2px solid black;
+}
