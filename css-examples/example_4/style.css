@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  header{
+    background-color: #7289DA;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+  }
+  .question{
+    background-color: #f2f2f2;
+    border: 2px solid #7289Da;
+    padding: 20px;
+    max-width: 400px;
+    text-align: center;
+  }
+  ul{
+    list-style-type: none;
+    text-align: left;
+    padding: 0px;
+    margin: 20px 0px;
+  }
+  li{
+    margin-bottom:10px;
+  }
+  .btn{
+    background-color: #7289DA;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  footer{
+    background-color: #7289DA;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+  }

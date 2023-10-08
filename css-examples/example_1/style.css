@@ -1,0 +1,13 @@
+ul li:first-child{
+    background-color: lightblue;
+    border: none;
+}
+ul li:last-child{
+    background-color: lightpink;
+}
+ul li:nth-child(3){
+    background-color: lightgreen;
+}
+li{
+    border: 1px dotted black;
+}
