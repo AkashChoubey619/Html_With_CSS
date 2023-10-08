@@ -1,0 +1,19 @@
+#main-container {
+    width: 100%; 
+}
+
+.margin-box {
+    width: 100px; 
+    height: 100px;
+    background-color: #f1f1f1;
+    border: 1px solid #ccc;
+}
+#box1{
+    margin: 10px;
+} #box2{
+    margin: 20px 5px;
+} #box3{
+    margin: 15px 10px 5px 20px;
+} #box4{
+    margin: 15px auto;
+}
